@@ -1,0 +1,31 @@
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\bin\Debug\netcoreapp3.1\Loja Virtual.exe
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\bin\Debug\netcoreapp3.1\Loja Virtual.deps.json
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\bin\Debug\netcoreapp3.1\Loja Virtual.runtimeconfig.json
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\bin\Debug\netcoreapp3.1\Loja Virtual.runtimeconfig.dev.json
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\bin\Debug\netcoreapp3.1\Loja Virtual.dll
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\bin\Debug\netcoreapp3.1\Loja Virtual.pdb
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\bin\Debug\netcoreapp3.1\Loja Virtual.Views.dll
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\Loja Virtual.csprojAssemblyReference.cache
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\Loja Virtual.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\Loja Virtual.AssemblyInfo.cs
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\Loja Virtual.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\Loja Virtual.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\Loja Virtual.RazorTargetAssemblyInfo.cache
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\staticwebassets\Loja Virtual.StaticWebAssets.Manifest.cache
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\staticwebassets\Loja Virtual.StaticWebAssets.xml
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\Loja Virtual.dll
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\Loja Virtual.pdb
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\Loja Virtual.genruntimeconfig.cache
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\Loja Virtual.csproj.CopyComplete
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\bin\Debug\netcoreapp3.1\Loja Virtual.Views.pdb
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\Loja Virtual.RazorAssemblyInfo.cache
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\Loja Virtual.RazorAssemblyInfo.cs
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\Loja Virtual.TagHelpers.input.cache
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\Loja Virtual.TagHelpers.output.cache
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\Loja Virtual.RazorCoreGenerate.cache
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\Loja Virtual.RazorTargetAssemblyInfo.cs
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\Loja Virtual.Views.pdb
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Visualizar.cshtml.g.cs
