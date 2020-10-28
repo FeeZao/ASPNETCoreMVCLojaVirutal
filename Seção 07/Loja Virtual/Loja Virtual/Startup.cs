@@ -47,13 +47,7 @@ namespace Loja_Virtual
 
             app.UseAuthorization();
 
-            /*
-             * 
-             * 
-             * 
-             * 
-             */
-
+        
 
             
             app.UseEndpoints(endpoints =>
