@@ -15,15 +15,15 @@ namespace Loja_Virtual.Libraries.Email
             //vai enviar a mensagem.
             SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587);
             smtp.UseDefaultCredentials = false;
-            smtp.Credentials = new NetworkCredential("felipe.braghittoni1999@gmail.com", "");
+            smtp.Credentials = new NetworkCredential("felipe.braghittoni1999@gmail.com", "Felipe1999#");
             smtp.EnableSsl = true;
 
 
-            string corpoMsg = string.Format("<h2>Contato - Loja Prazer</h2>" +
+            string corpoMsg = string.Format("<h2>Contato - Loja Online</h2>" +
                 "<b>Nome: </b> {0} <br />" +
                 "<b>E-Mail: </b> {1} <br />" +
                 "<b>Texto: </b> {2} <br />" +
-                "E-mail enviado automaticamente do site Loja Prazer.",
+                "E-mail enviado automaticamente do site Loja Online.",
                 contato.Nome,
                 contato.Email,
                 contato.Texto);
@@ -33,7 +33,7 @@ namespace Loja_Virtual.Libraries.Email
 
             MailMessage mensagem = new MailMessage();
             mensagem.From = new MailAddress("felipe.braghittoni1999@gmail.com");
-            mensagem.To.Add("cabraldesousaluana@gmail.com");
+            mensagem.To.Add("luigi.gb@hotmail.com");
             mensagem.Subject = "Contato - Loja Prazer - E-mail: " + contato.Email;
             mensagem.Body = corpoMsg;
             mensagem.IsBodyHtml = true;

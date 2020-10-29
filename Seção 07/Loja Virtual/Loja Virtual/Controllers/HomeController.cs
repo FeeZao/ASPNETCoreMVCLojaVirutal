@@ -50,6 +50,7 @@ namespace Loja_Virtual.Controllers
                         sb.Append(texto.ErrorMessage + "<br />");
                     }
                     ViewData["MSG_E"] = sb.ToString();
+                    ViewData["CONTATO"] = contato;
                 }
 
                
