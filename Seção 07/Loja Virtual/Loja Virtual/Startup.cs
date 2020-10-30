@@ -61,7 +61,7 @@ namespace Loja_Virtual
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "/{action=Index}/{controller=Home}/{id?}");
             });
             
         }

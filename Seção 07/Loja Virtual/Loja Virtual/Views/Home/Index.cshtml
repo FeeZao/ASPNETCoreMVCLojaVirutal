@@ -1,4 +1,4 @@
-﻿
+﻿@model Loja_Virtual.Models.NewsletterEmail;
 @{
     ViewData["Title"] = "Index";
 }
@@ -22,7 +22,7 @@
                             Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta
                             gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
                         </p>
-                        <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+                        <p><a class="btn btn-lg btn-primary" href="CadastroCliente " role="button">Sign up today</a></p>
                     </div>
                 </div>
             </div>
@@ -159,4 +159,55 @@
         </div> <!-- row.// -->
     </div>
 </main>
+
+
+@{
+
+//razor - motor template asp.et
+//Html helper - interface fornecegerear codigo html pelo c#, ajuda na minupulação de informações entre html e asp.net
+//@Html.ActionLink("nome","pag link")
+
+//URL: #Fragmento
+
+//@using (Html.BeginForm("index", "home", FormMethod.Post)) -- primeiro formulario
+}
+
+
+
+@using (Html.BeginForm(null,null,null, FormMethod.Post,false,new { @action = @Url.Action("index", "home") + "#formulario" }))
+{
+
+    <div class="container" id="formulario">
+        <div class="row">
+            <div class="col-sm-6 offset-sm-2">
+                @if (TempData["MSG_S"] != null)
+                {<p class="alert alert-success">@TempData["MSG_S"]</p>
+                }
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-6 offset-sm-2">
+                <div class="form-group">
+                    <label for="nome">Cadastre seu email para receber promoções:</label>
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fa fa-envelope"></i></span>
+                        </div>
+                        @Html.EditorFor(m => m.Email, new { htmlAttributes = new { @class = "form-control" } })
+                    </div>
+                    <span style="color:red">@Html.ValidationMessageFor(m => m.Email)</span>
+                </div>
+            </div>
+            <div class="col-sm-2">
+                <br />
+                <button class="subscribe btn btn-primary btn-block" type="submit" style="margin-top:7px "> Cadastrar-se </button>
+            </div>
+        </div>
+    </div>
+}
+
+
+
+
 
