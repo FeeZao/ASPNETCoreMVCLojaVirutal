@@ -105,7 +105,14 @@ namespace Loja_Virtual.Controllers
             return View();
         }
 
+        [HttpGet]
         public IActionResult CadastroCliente()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult CadastroCliente([FromForm]Cliente cliente)
         {
             return View();
         }

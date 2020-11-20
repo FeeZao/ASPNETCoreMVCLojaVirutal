@@ -150,3 +150,4 @@ C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja V
 C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\Loja Virtual.csproj.CoreCompileInputs.cache
 C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\Loja Virtual.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\felip\Documents\ASPNETCoreMVCLojaVirutal\Seção 07\Loja Virtual\Loja Virtual\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
